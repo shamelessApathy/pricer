@@ -1,5 +1,5 @@
 <?php
-$array = array(
+$products = array(
 'PLFW 520.24'=> '359.95',
 'PLFW 129E.30'=>    '599.95',
 'PLFW 129E.36'=>    '619.95',
